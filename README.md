@@ -1,6 +1,6 @@
 ### File
 
-* [`media-unsolved`](Unsolved/media-unsolved.html)
+* [`media-example`](media-example.html)
 
 ### Instructions
 
